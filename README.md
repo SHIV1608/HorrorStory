@@ -1,0 +1,3 @@
+# HorrorStory
+
+newbie android project
